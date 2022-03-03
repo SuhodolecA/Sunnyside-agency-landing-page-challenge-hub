@@ -1,1 +1,21 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  src: local("Barlow"), url("/assets/fonts/Barlow/Barlow-SemiBold.woff2") format("woff2"), url("/assets/fonts/Barlow/Barlow-SemiBold.woff") format("woff"), url("/assets/fonts/Barlow/Barlow-SemiBold.ttf") format("ttf"), url("/assets/fonts/Barlow/Barlow-SemiBold.eot") format("eot");
+}
+
+@font-face {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Fraunces"), url("/assets/fonts/Fraunces/Fraunces-Bold.woff2") format("woff2"), url("/assets/fonts/Fraunces/Fraunces-Bold.woff") format("woff"), url("/assets/fonts/Fraunces/Fraunces-Bold.ttf") format("ttf"), url("/assets/fonts/Fraunces/Fraunces-Bold.eot") format("eot");
+}
+
+@font-face {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 900;
+  src: local("Fraunces"), url("/assets/fonts/Fraunces/Fraunces-Black.woff2") format("woff2"), url("/assets/fonts/Fraunces/Fraunces-Black.woff") format("woff"), url("/assets/fonts/Fraunces/Fraunces-Black.ttf") format("ttf"), url("/assets/fonts/Fraunces/Fraunces-Black.eot") format("eot");
+}
+/*# sourceMappingURL=style.css.map */

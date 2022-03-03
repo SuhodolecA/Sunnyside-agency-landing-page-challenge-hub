@@ -1,10 +1,11 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AGAA,UAAU;EACT,WAAW,EAAE,QAAQ;EACrB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,eAAe,EACnB,iDAAiD,CAAC,eAAe,EACjE,gDAAgD,CAAC,cAAc,EAC/D,+CAA+C,CAAC,aAAa,EAC7D,+CAA+C,CAAC,aAAa;;;AAG/D,UAAU;EACT,WAAW,EAAE,UAAU;EACvB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,iBAAiB,EACrB,iDAAiD,CAAC,eAAe,EACjE,gDAAgD,CAAC,cAAc,EAC/D,+CAA+C,CAAC,aAAa,EAC7D,+CAA+C,CAAC,aAAa;;;AAE/D,UAAU;EACT,WAAW,EAAE,UAAU;EACvB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,iBAAiB,EACrB,kDAAkD,CAAC,eAAe,EAClE,iDAAiD,CAAC,cAAc,EAChE,gDAAgD,CAAC,aAAa,EAC9D,gDAAgD,CAAC,aAAa",
     "sources": [
         "style.scss",
         "_variables.scss",
         "_globals.scss",
+        "_fonts.scss",
         "_sunny-header.scss"
     ],
     "names": [],
